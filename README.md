@@ -1,4 +1,5 @@
-Landing Page de Restaurante
+- Landing Page de Restaurante -
+
 Bem-vindo à landing page do Restaurante! Este projeto é uma página web 
 desenvolvida com HTML, CSS e JavaScript para apresentar um restaurante
 e seu menu.
@@ -21,4 +22,5 @@ HTML5: Para a estruturação do conteúdo da página.
 CSS3: Para estilização e layout responsivo.
 JavaScript: Para interatividade e funcionalidades dinâmicas, como o 
 envio de formulários e a exibição da galeria de imagens.
-Link para teste - 
+
+Link para teste - https://rodrigodevbnu.github.io/Landing-Page/ 
