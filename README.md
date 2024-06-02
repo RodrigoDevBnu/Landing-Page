@@ -21,9 +21,9 @@ Depoimentos:
 *Comentários e avaliações de clientes satisfeitos.*
 
 ## Tecnologias Utilizadas
--*HTML5: Para a estruturação do conteúdo da página.*
--*CSS3: Para estilização e layout responsivo.*
--*JavaScript: Para interatividade e funcionalidades dinâmicas, como o 
-envio de formulários e a exibição da galeria de imagens.*
+- HTML5: Para a estruturação do conteúdo da página.
+- CSS3: Para estilização e layout responsivo.
+- JavaScript: Para interatividade e funcionalidades dinâmicas, como o 
+envio de formulários e a exibição da galeria de imagens.
 
 Link para teste - https://rodrigodevbnu.github.io/Landing-Page/ 
