@@ -1,8 +1,6 @@
 # Landing Page de Restaurante 
 
-## Bem-vindo à landing page do Restaurante! Este projeto é uma página web 
-desenvolvida com HTML, CSS e JavaScript para apresentar um restaurante
-e seu menu.
+## Bem-vindo à landing page do Restaurante! Este projeto é uma página web desenvolvida com HTML, CSS e JavaScript para apresentar um restaurante e seu menu.
 
 Visão Geral
 Esta landing page foi criada como parte de um estudo em desenvolvimento 
